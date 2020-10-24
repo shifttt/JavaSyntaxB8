@@ -24,6 +24,8 @@ public class ArithmeticOperators {
 		float f=10.99f;
 		float f1=2.99f;
 		
+	
+		
 		System.out.println("The result of division of 2 float values = "+f/f1);//3.6755853
 		
 		System.out.println("Hello friends");
